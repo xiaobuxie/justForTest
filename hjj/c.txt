@@ -1,5 +1,9 @@
 aaaaaaaaaaaa
 bbbbbbbbbbbbbb
 bcccccccccccc
+<<<<<<< HEAD
 ddddddddddddddddddd
 wwwwwwwww
+=======
+gggg
+>>>>>>> fetch
