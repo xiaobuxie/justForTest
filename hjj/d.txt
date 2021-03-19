@@ -1,2 +1,6 @@
 aaa
+<<<<<<< HEAD
 ccccc
+=======
+bbb
+>>>>>>> fetch
